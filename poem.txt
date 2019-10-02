@@ -4,6 +4,7 @@ Purple
 Blue
 red
 orange
+Green
 violet
 yelloe
 These are the colours of rainbow
