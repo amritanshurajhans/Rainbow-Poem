@@ -7,4 +7,5 @@ orange
 Green
 violet
 yelloe
+unicorn
 These are the colours of rainbow
